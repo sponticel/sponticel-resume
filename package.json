@@ -7,9 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sponticel",
-  "license": "ISC"
+  "license": "ISC" ,
+  "bin": {
+    "resume-sponticel": "./index.js"
+  }
+  
 }
 
-"bin": {
-  "resume-me": "./index.js"
-},
