@@ -9,7 +9,7 @@
   "author": "sponticel",
   "license": "ISC" ,
   "bin": {
-    "resume-sponticel": "./index.js"
+    "resume-me": "./index.js"
   }
   
 }
